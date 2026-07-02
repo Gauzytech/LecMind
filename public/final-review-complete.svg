@@ -1,0 +1,175 @@
+<svg viewBox="0 0 1422 848" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1422.000000" height="848.000000" fill="none">
+	<defs>
+		<g id="pixso_custom_effect_0">
+			<effect x="0.000000" y="24.000000" visibility="visible" fill="rgb(119,113,206)" fill-opacity="0.239999995" effectType="dropShadow" stdDeviation="75" radius="0" />
+		</g>
+		<filter id="filter_0" width="659.495117" height="668.772461" x="306.646484" y="77.901367" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_0)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feColorMatrix result="hardAlpha" in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0 " />
+			<feOffset dx="0.000000" dy="24.000000" in="hardAlpha" />
+			<feGaussianBlur stdDeviation="25" />
+			<feComposite k2="-1" k3="1" in2="hardAlpha" operator="out" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0.466667 0 0 0 0 0.443137 0 0 0 0 0.807843 0 0 0 0.24 0 " />
+			<feBlend result="effect_dropShadow_1" in2="BackgroundImageFix" mode="normal" />
+			<feBlend result="shape" in="SourceGraphic" in2="effect_dropShadow_1" mode="normal" />
+		</filter>
+		<linearGradient id="paint_linear_0" x1="0" x2="491.896301" y1="0" y2="481.898438" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(216,214,255)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(118,107,234)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<g id="pixso_custom_effect_1">
+			<effect x="0.000000" y="24.000000" visibility="visible" fill="rgb(119,113,206)" fill-opacity="0.239999995" effectType="dropShadow" stdDeviation="75" radius="0" />
+		</g>
+		<filter id="filter_1" width="747.490234" height="677.903809" x="371.591797" y="146.571289" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_1)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feColorMatrix result="hardAlpha" in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0 " />
+			<feOffset dx="0.000000" dy="24.000000" in="hardAlpha" />
+			<feGaussianBlur stdDeviation="25" />
+			<feComposite k2="-1" k3="1" in2="hardAlpha" operator="out" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0.466667 0 0 0 0 0.443137 0 0 0 0 0.807843 0 0 0 0.24 0 " />
+			<feBlend result="effect_dropShadow_1" in2="BackgroundImageFix" mode="normal" />
+			<feBlend result="shape" in="SourceGraphic" in2="effect_dropShadow_1" mode="normal" />
+		</filter>
+		<g id="pixso_custom_effect_2">
+			<effect x="0.000000" y="14.000000" visibility="visible" fill="rgb(117,107,221)" fill-opacity="0.280000001" effectType="dropShadow" stdDeviation="51" radius="0" />
+		</g>
+		<filter id="filter_2" width="185.488281" height="391.461914" x="843.491211" y="285.990723" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_2)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feColorMatrix result="hardAlpha" in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0 " />
+			<feOffset dx="0.000000" dy="14.000000" in="hardAlpha" />
+			<feGaussianBlur stdDeviation="17" />
+			<feComposite k2="-1" k3="1" in2="hardAlpha" operator="out" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0.458824 0 0 0 0 0.419608 0 0 0 0 0.866667 0 0 0 0.28 0 " />
+			<feBlend result="effect_dropShadow_1" in2="BackgroundImageFix" mode="normal" />
+			<feBlend result="shape" in="SourceGraphic" in2="effect_dropShadow_1" mode="normal" />
+		</filter>
+		<linearGradient id="paint_linear_1" x1="0" x2="68" y1="0" y2="68" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(170,163,255)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(104,87,233)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<linearGradient id="paint_linear_2" x1="0" x2="68" y1="0" y2="68" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(170,163,255)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(104,87,233)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<linearGradient id="paint_linear_3" x1="0" x2="68" y1="0" y2="68" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(183,247,203)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(96,219,140)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<g id="pixso_custom_effect_3">
+			<effect x="0.000000" y="14.000000" visibility="visible" fill="rgb(117,107,221)" fill-opacity="0.280000001" effectType="dropShadow" stdDeviation="51" radius="0" />
+		</g>
+		<filter id="filter_3" width="283.000000" height="280.000000" x="925.000000" y="529.000000" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_3)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feColorMatrix result="hardAlpha" in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0 " />
+			<feOffset dx="0.000000" dy="14.000000" in="hardAlpha" />
+			<feGaussianBlur stdDeviation="17" />
+			<feComposite k2="-1" k3="1" in2="hardAlpha" operator="out" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0.458824 0 0 0 0 0.419608 0 0 0 0 0.866667 0 0 0 0.28 0 " />
+			<feBlend result="effect_dropShadow_1" in2="BackgroundImageFix" mode="normal" />
+			<feBlend result="shape" in="SourceGraphic" in2="effect_dropShadow_1" mode="normal" />
+		</filter>
+		<linearGradient id="paint_linear_4" x1="976" x2="1153.9751" y1="566" y2="746.974731" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(216,214,255)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(118,107,234)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<g id="pixso_custom_effect_4">
+			<effect x="0.000000" y="14.000000" visibility="visible" fill="rgb(117,107,221)" fill-opacity="0.280000001" effectType="dropShadow" stdDeviation="51" radius="0" />
+		</g>
+		<filter id="filter_4" width="727.000000" height="361.000000" x="51.000000" y="552.000000" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_4)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feColorMatrix result="hardAlpha" in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0 " />
+			<feOffset dx="0.000000" dy="14.000000" in="hardAlpha" />
+			<feGaussianBlur stdDeviation="17" />
+			<feComposite k2="-1" k3="1" in2="hardAlpha" operator="out" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0.458824 0 0 0 0 0.419608 0 0 0 0 0.866667 0 0 0 0.28 0 " />
+			<feBlend result="effect_dropShadow_1" in2="BackgroundImageFix" mode="normal" />
+			<feBlend result="shape" in="SourceGraphic" in2="effect_dropShadow_1" mode="normal" />
+		</filter>
+	</defs>
+	<rect id="智能复习完成插图" width="1422.000000" height="848.000000" x="0.000000" y="0.000000" />
+	<ellipse id="椭圆 42" rx="485.000000" ry="382.000000" cx="700" cy="400" opacity="0.75" fill="rgb(245,245,255)" />
+	<path id="矢量 492" d="M897 46C1072 28 1207 91 1207 252M340 307C252 394 265 536 366 583C425 611 504 590 541 648M1084 424C1185 446 1191 535 1093 566" opacity="0.699999988" fill-rule="nonzero" stroke="rgb(182,176,250)" stroke-linecap="butt" stroke-dasharray="17 17 " stroke-width="5.000000" />
+	<g id="组合 265" opacity="0.699999988">
+		<circle id="椭圆 43" cx="1087" cy="284" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 44" cx="1126" cy="284" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 45" cx="1165" cy="284" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 46" cx="1204" cy="284" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 47" cx="1243" cy="284" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 48" cx="1282" cy="284" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 49" cx="1087" cy="326" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 50" cx="1126" cy="326" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 51" cx="1165" cy="326" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 52" cx="1204" cy="326" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 53" cx="1243" cy="326" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 54" cx="1282" cy="326" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 55" cx="1087" cy="368" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 56" cx="1126" cy="368" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 57" cx="1165" cy="368" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 58" cx="1204" cy="368" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 59" cx="1243" cy="368" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 60" cx="1282" cy="368" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 61" cx="1087" cy="410" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 62" cx="1126" cy="410" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 63" cx="1165" cy="410" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 64" cx="1204" cy="410" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 65" cx="1243" cy="410" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 66" cx="1282" cy="410" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 67" cx="1087" cy="452" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 68" cx="1126" cy="452" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 69" cx="1165" cy="452" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 70" cx="1204" cy="452" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 71" cx="1243" cy="452" r="7" fill="rgb(228,226,255)" />
+		<circle id="椭圆 72" cx="1282" cy="452" r="7" fill="rgb(228,226,255)" />
+	</g>
+	<g id="组合 266" filter="url(#filter_0)">
+		<rect id="矩形 254" width="482.000000" height="492.000000" x="0.000000" y="0.000000" rx="42.000000" fill="url(#paint_linear_0)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,378.821,159.698)" />
+		<path id="矢量 493" d="M0 42C0 19 19 0 42 0L440 0C463 0 482 19 482 42L482 116L0 116L0 42Z" opacity="0.550000012" fill="rgb(195,190,255)" fill-rule="nonzero" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,378.821,159.698)" />
+		<g id="组合 267">
+			<circle id="椭圆 73" cx="11" cy="11" r="11" fill="rgb(255,255,255)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,414.461,196.301)" />
+			<circle id="椭圆 74" cx="11" cy="11" r="11" fill="rgb(255,255,255)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,449.376,193.86)" />
+			<circle id="椭圆 75" cx="11" cy="11" r="11" fill="rgb(255,255,255)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,484.291,191.418)" />
+		</g>
+	</g>
+	<g id="组合 268" filter="url(#filter_1)">
+		<rect id="矩形 255" width="570.000000" height="495.000000" x="0.000000" y="0.000000" rx="42.000000" fill="rgb(255,255,255)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,443.767,234.507)" />
+		<path id="矢量 494" d="M0 42C0 19 19 0 42 0L528 0C551 0 570 19 570 42L570 94L0 94L0 42Z" fill="rgb(250,250,255)" fill-rule="nonzero" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,443.767,234.507)" />
+	</g>
+	<g id="组合 269">
+		<g id="组合 270">
+			<circle id="椭圆 76" cx="36" cy="36" r="36" fill="rgb(241,241,250)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,514.105,365.92)" />
+			<circle id="椭圆 77" cx="36" cy="36" r="36" fill="rgb(241,241,250)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,521.848,476.65)" />
+			<circle id="椭圆 78" cx="36" cy="36" r="36" fill="rgb(241,241,250)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,529.591,587.379)" />
+		</g>
+		<g id="组合 271">
+			<circle id="椭圆 79" cx="15" cy="15" r="15" fill="rgb(220,217,255)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,536.519,385.404)" />
+			<circle id="椭圆 80" cx="15" cy="15" r="15" fill="rgb(220,217,255)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,544.262,496.134)" />
+			<circle id="椭圆 81" cx="15" cy="15" r="15" fill="rgb(220,217,255)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,552.005,606.863)" />
+		</g>
+		<g id="组合 272">
+			<rect id="矩形 256" width="211.000000" height="24.000000" x="0.000000" y="0.000000" rx="12.000000" fill="rgb(232,231,246)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,616.924,359.733)" />
+			<rect id="矩形 257" width="128.000000" height="19.000000" x="0.000000" y="0.000000" rx="9.500000" fill="rgb(232,231,246)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,619.574,397.64)" />
+			<rect id="矩形 258" width="211.000000" height="24.000000" x="0.000000" y="0.000000" rx="12.000000" fill="rgb(232,231,246)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,624.667,470.462)" />
+			<rect id="矩形 259" width="128.000000" height="19.000000" x="0.000000" y="0.000000" rx="9.500000" fill="rgb(232,231,246)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,627.317,508.37)" />
+			<rect id="矩形 260" width="211.000000" height="24.000000" x="0.000000" y="0.000000" rx="12.000000" fill="rgb(232,231,246)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,632.41,581.192)" />
+			<rect id="矩形 261" width="128.000000" height="19.000000" x="0.000000" y="0.000000" rx="9.500000" fill="rgb(232,231,246)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,635.061,619.1)" />
+		</g>
+		<g id="组合 273" filter="url(#filter_2)">
+			<circle id="椭圆 82" cx="34" cy="34" r="34" fill="url(#paint_linear_1)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,892.203,325.447)" />
+			<circle id="椭圆 83" cx="34" cy="34" r="34" fill="url(#paint_linear_2)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,899.945,436.176)" />
+			<circle id="椭圆 84" cx="34" cy="34" r="34" fill="url(#paint_linear_3)" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,907.688,546.906)" />
+		</g>
+		<g id="组合 274">
+			<path id="矢量 495" d="M0 16L11 27L33 0M0 127L11 138L33 111M0 238L11 249L33 222" fill-rule="nonzero" stroke="rgb(255,255,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.000000" transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,911.415,342.147)" />
+		</g>
+	</g>
+	<g id="组合 275" filter="url(#filter_3)">
+		<rect id="矩形 262" width="181.000000" height="178.000000" x="976.000000" y="566.000000" rx="35.000000" fill="url(#paint_linear_4)" />
+	</g>
+	<path id="矢量 496" d="M1067 613L1085 651L1127 657L1097 686L1104 728L1067 708L1030 728L1037 686L1007 657L1049 651L1067 613Z" fill="rgb(255,255,255)" fill-rule="nonzero" />
+	<g id="组合 276">
+		<path id="矢量 497" d="M289 70L301 98L330 110L301 122L289 151L277 122L248 110L277 98L289 70ZM205 581L217 609L246 621L217 633L205 662L193 633L164 621L193 609L205 581ZM1266 751L1276 774L1300 784L1276 794L1266 818L1256 794L1232 784L1256 774L1266 751Z" fill="rgb(129,114,239)" fill-rule="nonzero" />
+	</g>
+	<g id="组合 277" filter="url(#filter_4)">
+		<path id="矢量 498" d="M102 848C102 783 153 730 217 726C242 646 315 589 402 589C493 589 569 652 589 737C659 738 715 783 727 848L102 848Z" fill="rgb(255,255,255)" fill-rule="nonzero" />
+	</g>
+</svg>
